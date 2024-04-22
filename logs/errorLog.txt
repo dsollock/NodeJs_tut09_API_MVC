@@ -1,0 +1,4 @@
+04/18/2024	 11:30:27	85a75333-48b9-4996-b38f-ca16f5138c8d	Error: Not allowed by CORS
+04/18/2024	 11:30:28	8bf8df33-1549-4d36-a353-1387ac6eb56e	Error: Not allowed by CORS
+04/22/2024	 11:18:06	4c9faa95-5376-4a93-ab12-ea1cf9e2d585	TypeError: Cannot read properties of undefined (reading 'id')
+04/22/2024	 11:20:43	617be157-5e37-410c-9927-4aac068a0a0f	ReferenceError: emp is not defined
